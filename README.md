@@ -63,6 +63,9 @@ In that phase we predict what a client will be, when loaning, based on the train
     
 This will produce each client and its predicted value.
 
+*[  More detailed analysis and explanation to the [Analysis.pdf](https://github.com/VangelisGara/Bank-System-Client-Classificator/blob/master/Analasis.pdf) ]*
+
+
 ### Important
 
 The implementation used the [Sci-kit library](https://scikit-learn.org/stable/index.html) mainly for the clustering and classification methods, along with a set of other libraries. Make sure to install them by:
@@ -71,3 +74,5 @@ The implementation used the [Sci-kit library](https://scikit-learn.org/stable/in
 sudo pip3 install -U <library name>
 
 ```
+
+*[  More detailed analysis and explanation to the [Analysis.pdf](https://github.com/VangelisGara/Bank-System-Client-Classificator/blob/master/Analasis.pdf) ]*
