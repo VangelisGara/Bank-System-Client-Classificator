@@ -74,5 +74,3 @@ The implementation used the [Sci-kit library](https://scikit-learn.org/stable/in
 sudo pip3 install -U <library name>
 
 ```
-
-*[  More detailed analysis and explanation to the [Analysis.pdf](https://github.com/VangelisGara/Bank-System-Client-Classificator/blob/master/Analasis.pdf) ]*
